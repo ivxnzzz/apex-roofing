@@ -60,7 +60,7 @@ export default function Hero() {
           >
             ROOFING
             <br />
-            <span className="text-gradient-warm">REDEFINED.</span>
+            <span className="text-white">REDEFINED.</span>
           </motion.h1>
 
           {/* Subtext */}
